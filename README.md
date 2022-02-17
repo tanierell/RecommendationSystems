@@ -5,6 +5,6 @@
 - Run all
 
 # Extras
-1. the code is documented, but if needed, all the explenation is in the pdf report
+1. the code is documented, but if needed, all the explenations are in the pdf report
 2. The results graph, evaluations, hyperparameters, and algorithms' description are all in the report
 3. For running the 10M dataset, we will need to run the code on a pltform that supports a lot of RAM - 25GB wasn't enough    
