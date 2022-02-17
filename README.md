@@ -1,7 +1,7 @@
 # Recommendation System Finals - Instructions
 
 - Download the 1M zip file from here: https://grouplens.org/datasets/movielens/1m/
-- Extract the zip inside the folder of the .ipynb file, make sure the filder contains ratings,users,items (.dat) files, along the coding file
+- Extract the zip inside the folder of the .ipynb file, make sure the folder contains ratings,users,items (.dat) files, along the coding file
 - Run all
 
 # Extras
